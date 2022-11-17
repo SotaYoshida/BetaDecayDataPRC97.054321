@@ -1,4 +1,4 @@
-parentZ,parentN,A,label,daughterZ,daughterN,daughter2Jpi,Energy(MeV),Ex.(MeV),logf0t(Qexp), logf0t(Qtho)
+parentZ,parentN,A,parent state,daughterZ,daughterN,daughter2Jpi,Energy(MeV),Ex.(MeV),logf0t(Qexp), logf0t(Qtho)
 13,22,35,Al35(j5p),14,21,7-,-185.844,0.000,7.44,7.37
 13,22,35,Al35(j5p),14,21,3-,-184.622,1.222,9.03,8.97
 13,22,35,Al35(j5p),14,21,1-,-183.504,2.340,11.83,11.76
