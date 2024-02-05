@@ -1,6 +1,4 @@
 using NuclearToolkit
-#include("/Users/sotair/uu_gdrive/dev_NuclearToolkit.jl/src/NuclearToolkit.jl")
-#using .NuclearToolkit
 using Glob
 
 function run()
