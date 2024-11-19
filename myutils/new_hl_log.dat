@@ -1,0 +1,567 @@
+Mg34(j0p)=>Al34 qval_exp 11.320942800000001 qval_tho 14.53348776610571
+ExpQ:  hl(GT-only)   1.9521e-02      19.521 ms  hl(GT+FF)[sec]   1.9516e-02      19.516 ms  Pn_GT     5.99 Pn_tot     6.01
+ThoQ:  hl(GT-only)   5.4594e-03       5.459 ms  hl(GT+FF)[sec]   5.4557e-03       5.456 ms  Pn_GT    12.29 Pn_tot    12.33
+Mg35(j3n)=>Al35 qval_exp 15.863515600000001 qval_tho 17.37534855923454
+ExpQ:  hl(GT-only)   8.0948e-03       8.095 ms  hl(GT+FF)[sec]   8.0689e-03       8.069 ms  Pn_GT    12.69 Pn_tot    12.79
+ThoQ:  hl(GT-only)   4.6752e-03       4.675 ms  hl(GT+FF)[sec]   4.6581e-03       4.658 ms  Pn_GT    16.08 Pn_tot    16.18
+Mg35(j5n,Ex.=0.33 MeV)=>Al35 qval_exp 15.863515600000001 qval_tho 17.700348559234556
+ExpQ:  hl(GT-only)   8.9878e-03       8.988 ms  hl(GT+FF)[sec]   8.9581e-03       8.958 ms  Pn_GT    12.39 Pn_tot    12.44
+ThoQ:  hl(GT-only)   4.6075e-03       4.608 ms  hl(GT+FF)[sec]   4.5898e-03       4.590 ms  Pn_GT    16.58 Pn_tot    16.64
+Mg36(j0p)=>Al36 qval_exp 14.4297751 qval_tho 15.914230163815988
+ExpQ:  hl(GT-only)   6.6879e-03       6.688 ms  hl(GT+FF)[sec]   6.6615e-03       6.661 ms  Pn_GT    20.71 Pn_tot    20.95
+ThoQ:  hl(GT-only)   3.9583e-03       3.958 ms  hl(GT+FF)[sec]   3.9396e-03       3.940 ms  Pn_GT    24.55 Pn_tot    24.83
+Mg37(j1n)=>Al37 qval_exp 18.4019132 qval_tho 19.845818660410302
+ExpQ:  hl(GT-only)   5.3370e-03       5.337 ms  hl(GT+FF)[sec]   5.1658e-03       5.166 ms  Pn_GT    34.71 Pn_tot    33.88
+ThoQ:  hl(GT-only)   3.2683e-03       3.268 ms  hl(GT+FF)[sec]   3.1653e-03       3.165 ms  Pn_GT    38.64 Pn_tot    37.74
+Mg37(j5n,Ex.=0.04 MeV)=>Al37 qval_exp 18.4019132 qval_tho 19.889818660410285
+ExpQ:  hl(GT-only)   5.1247e-03       5.125 ms  hl(GT+FF)[sec]   4.9742e-03       4.974 ms  Pn_GT    34.09 Pn_tot    33.18
+ThoQ:  hl(GT-only)   3.1174e-03       3.117 ms  hl(GT+FF)[sec]   3.0224e-03       3.022 ms  Pn_GT    37.81 Pn_tot    36.77
+Mg37(j3n,Ex.=0.11 MeV)=>Al37 qval_exp 18.4019132 qval_tho 19.9588186604103
+ExpQ:  hl(GT-only)   5.5159e-03       5.516 ms  hl(GT+FF)[sec]   5.3472e-03       5.347 ms  Pn_GT    32.24 Pn_tot    31.49
+ThoQ:  hl(GT-only)   3.2499e-03       3.250 ms  hl(GT+FF)[sec]   3.1512e-03       3.151 ms  Pn_GT    36.54 Pn_tot    35.71
+Mg38(j0p)=>Al38 qval_exp# 17.604 qval_tho 18.851688154856433
+ExpQ:  hl(GT-only)   3.9145e-03       3.914 ms  hl(GT+FF)[sec]   3.7849e-03       3.785 ms  Pn_GT    36.93 Pn_tot    37.04
+ThoQ:  hl(GT-only)   2.6226e-03       2.623 ms  hl(GT+FF)[sec]   2.5311e-03       2.531 ms  Pn_GT    40.16 Pn_tot    40.14
+Mg39(j3n)=>Al39 qval_exp# 21.286 qval_tho 22.624322330056486
+ExpQ:  hl(GT-only)   3.2633e-03       3.263 ms  hl(GT+FF)[sec]   3.0147e-03       3.015 ms  Pn_GT   100.00 Pn_tot    95.33
+ThoQ:  hl(GT-only)   2.1557e-03       2.156 ms  hl(GT+FF)[sec]   1.9872e-03       1.987 ms  Pn_GT   100.00 Pn_tot    95.36
+Mg39(j1n,Ex.=0.15 MeV)=>Al39 qval_exp# 21.286 qval_tho 22.778322330056483
+ExpQ:  hl(GT-only)   3.2608e-03       3.261 ms  hl(GT+FF)[sec]   3.0030e-03       3.003 ms  Pn_GT   100.00 Pn_tot    95.51
+ThoQ:  hl(GT-only)   2.0517e-03       2.052 ms  hl(GT+FF)[sec]   1.8849e-03       1.885 ms  Pn_GT   100.00 Pn_tot    95.52
+Mg40(j0p)=>Al40 qval_exp# 20.729 qval_tho 21.39613123785061
+ExpQ:  hl(GT-only)   2.1739e-03       2.174 ms  hl(GT+FF)[sec]   1.9390e-03       1.939 ms  Pn_GT   100.00 Pn_tot    94.94
+ThoQ:  hl(GT-only)   1.7838e-03       1.784 ms  hl(GT+FF)[sec]   1.5889e-03       1.589 ms  Pn_GT   100.00 Pn_tot    94.90
+Mg41(j3n)=>Al41 qval_exp# 23.51 qval_tho 25.531464508953505
+ExpQ:  hl(GT-only)   2.5754e-03       2.575 ms  hl(GT+FF)[sec]   2.2106e-03       2.211 ms  Pn_GT   100.00 Pn_tot    91.83
+ThoQ:  hl(GT-only)   1.4285e-03       1.429 ms  hl(GT+FF)[sec]   1.2268e-03       1.227 ms  Pn_GT   100.00 Pn_tot    91.97
+Mg41(j1n,Ex.=0.19 MeV)=>Al41 qval_exp# 23.51 qval_tho 25.717464508953483
+ExpQ:  hl(GT-only)   2.8344e-03       2.834 ms  hl(GT+FF)[sec]   2.3506e-03       2.351 ms  Pn_GT   100.00 Pn_tot    93.11
+ThoQ:  hl(GT-only)   1.4745e-03       1.474 ms  hl(GT+FF)[sec]   1.2293e-03       1.229 ms  Pn_GT   100.00 Pn_tot    93.43
+Mg41(j5n,Ex.=0.46 MeV)=>Al41 qval_exp# 23.51 qval_tho 25.9944645089535
+ExpQ:  hl(GT-only)   2.9478e-03       2.948 ms  hl(GT+FF)[sec]   2.6245e-03       2.624 ms  Pn_GT   100.00 Pn_tot    91.60
+ThoQ:  hl(GT-only)   1.4175e-03       1.418 ms  hl(GT+FF)[sec]   1.2629e-03       1.263 ms  Pn_GT   100.00 Pn_tot    91.75
+Al35(j5p)=>Si35 qval_exp 14.167750400000001 qval_tho 15.218531804499365
+ExpQ:  hl(GT-only)   2.3548e-02      23.548 ms  h1/2[sec]   2.3512e-02      23.512 ms  Pn_GT    25.38 Pn_tot    25.41
+ThoQ:  hl(GT-only)   1.5532e-02      15.532 ms  h1/2[sec]   1.5505e-02      15.505 ms  Pn_GT    29.44 Pn_tot    29.48
+Al36(j10n,Ex.=0.33 MeV)=>Si36 qval_exp 18.3865096 qval_tho 19.362389015901
+ExpQ:  hl(GT-only)   1.6793e-02      16.793 ms  h1/2[sec]   1.6740e-02      16.740 ms  Pn_GT    28.99 Pn_tot    29.09
+ThoQ:  hl(GT-only)   1.1596e-02      11.596 ms  h1/2[sec]   1.1554e-02      11.554 ms  Pn_GT    32.83 Pn_tot    32.93
+Al36(j2n,Ex.=0.22 MeV)=>Si36 qval_exp 18.3865096 qval_tho 19.255389015901002
+ExpQ:  hl(GT-only)   1.8636e-02      18.636 ms  h1/2[sec]   1.8466e-02      18.466 ms  Pn_GT    35.92 Pn_tot    36.18
+ThoQ:  hl(GT-only)   1.3162e-02      13.162 ms  h1/2[sec]   1.3038e-02      13.038 ms  Pn_GT    39.28 Pn_tot    39.53
+Al36(j4n,Ex.=0.08 MeV)=>Si36 qval_exp 18.3865096 qval_tho 19.11038901590102
+ExpQ:  hl(GT-only)   1.8870e-02      18.870 ms  h1/2[sec]   1.8700e-02      18.700 ms  Pn_GT    35.27 Pn_tot    35.30
+ThoQ:  hl(GT-only)   1.4125e-02      14.125 ms  h1/2[sec]   1.3996e-02      13.996 ms  Pn_GT    38.16 Pn_tot    38.18
+Al36(j8n)=>Si36 qval_exp 18.3865096 qval_tho 19.032389015901018
+ExpQ:  hl(GT-only)   1.5887e-02      15.887 ms  h1/2[sec]   1.5815e-02      15.815 ms  Pn_GT    33.12 Pn_tot    33.27
+ThoQ:  hl(GT-only)   1.2382e-02      12.382 ms  h1/2[sec]   1.2322e-02      12.322 ms  Pn_GT    35.69 Pn_tot    35.84
+Al37(j5p)=>Si37 qval_exp 16.3810765 qval_tho 16.984303296381157
+ExpQ:  hl(GT-only)   1.2538e-02      12.538 ms  h1/2[sec]   1.2442e-02      12.442 ms  Pn_GT    45.78 Pn_tot    45.91
+ThoQ:  hl(GT-only)   9.9795e-03       9.980 ms  h1/2[sec]   9.8993e-03       9.899 ms  Pn_GT    48.07 Pn_tot    48.20
+Al38(j0n)=>Si38 qval_exp# 20.64 qval_tho 20.692080331423014
+ExpQ:  hl(GT-only)   8.9026e-03       8.903 ms  h1/2[sec]   8.6319e-03       8.632 ms  Pn_GT    60.14 Pn_tot    58.83
+ThoQ:  hl(GT-only)   8.7327e-03       8.733 ms  h1/2[sec]   8.4674e-03       8.467 ms  Pn_GT    60.29 Pn_tot    58.97
+Al38(j10n,Ex.=0.39 MeV)=>Si38 qval_exp# 20.64 qval_tho 21.083080331423005
+ExpQ:  hl(GT-only)   8.4846e-03       8.485 ms  h1/2[sec]   8.4172e-03       8.417 ms  Pn_GT    50.69 Pn_tot    50.45
+ThoQ:  hl(GT-only)   7.2532e-03       7.253 ms  h1/2[sec]   7.1942e-03       7.194 ms  Pn_GT    52.15 Pn_tot    51.89
+Al39(j5p)=>Si39 qval_exp# 19.169 qval_tho 19.290394913360373
+ExpQ:  hl(GT-only)   6.0843e-03       6.084 ms  h1/2[sec]   5.7845e-03       5.784 ms  Pn_GT    64.46 Pn_tot    62.44
+ThoQ:  hl(GT-only)   5.8372e-03       5.837 ms  h1/2[sec]   5.5493e-03       5.549 ms  Pn_GT    64.81 Pn_tot    62.76
+Al40(j0n,Ex.=0.36 MeV)=>Si40 qval_exp# 23.154 qval_tho 24.236816080486236
+ExpQ:  hl(GT-only)   4.7965e-03       4.796 ms  h1/2[sec]   4.4971e-03       4.497 ms  Pn_GT    99.64 Pn_tot    95.32
+ThoQ:  hl(GT-only)   3.3721e-03       3.372 ms  h1/2[sec]   3.1744e-03       3.174 ms  Pn_GT    99.67 Pn_tot    95.82
+Al40(j2n,Ex.=0.45 MeV)=>Si40 qval_exp# 23.154 qval_tho 24.32281608048619
+ExpQ:  hl(GT-only)   5.2072e-03       5.207 ms  h1/2[sec]   4.4624e-03       4.462 ms  Pn_GT    90.42 Pn_tot    78.75
+ThoQ:  hl(GT-only)   3.5503e-03       3.550 ms  h1/2[sec]   3.0518e-03       3.052 ms  Pn_GT    91.32 Pn_tot    79.79
+Al40(j4n,Ex.=0.18 MeV)=>Si40 qval_exp# 23.154 qval_tho 24.053816080486243
+ExpQ:  hl(GT-only)   5.3412e-03       5.341 ms  h1/2[sec]   4.8241e-03       4.824 ms  Pn_GT    65.58 Pn_tot    60.79
+ThoQ:  hl(GT-only)   3.9929e-03       3.993 ms  h1/2[sec]   3.6144e-03       3.614 ms  Pn_GT    67.87 Pn_tot    63.00
+Al40(j6n,Ex.=0.30 MeV)=>Si40 qval_exp# 23.154 qval_tho 24.1758160804862
+ExpQ:  hl(GT-only)   6.5173e-03       6.517 ms  h1/2[sec]   5.7885e-03       5.788 ms  Pn_GT    77.96 Pn_tot    70.86
+ThoQ:  hl(GT-only)   4.6306e-03       4.631 ms  h1/2[sec]   4.1192e-03       4.119 ms  Pn_GT    79.74 Pn_tot    72.58
+Al40(j8n)=>Si40 qval_exp# 23.154 qval_tho 23.874816080486212
+ExpQ:  hl(GT-only)   5.0177e-03       5.018 ms  h1/2[sec]   4.6526e-03       4.653 ms  Pn_GT    59.23 Pn_tot    55.49
+ThoQ:  hl(GT-only)   3.9880e-03       3.988 ms  h1/2[sec]   3.7011e-03       3.701 ms  Pn_GT    61.49 Pn_tot    57.64
+Al41(j5p)=>Si41 qval_exp# 21.39 qval_tho 22.859826714027875
+ExpQ:  hl(GT-only)   4.8632e-03       4.863 ms  h1/2[sec]   3.9031e-03       3.903 ms  Pn_GT    71.83 Pn_tot    62.23
+ThoQ:  hl(GT-only)   3.0937e-03       3.094 ms  h1/2[sec]   2.4844e-03       2.484 ms  Pn_GT    75.20 Pn_tot    64.89
+Al42(j0n,Ex.=0.34 MeV)=>Si42 qval_exp# 25.15 qval_tho 28.014838961928163
+ExpQ:  hl(GT-only)   6.0360e-03       6.036 ms  h1/2[sec]   4.4071e-03       4.407 ms  Pn_GT    98.12 Pn_tot    83.86
+ThoQ:  hl(GT-only)   2.4821e-03       2.482 ms  h1/2[sec]   1.8363e-03       1.836 ms  Pn_GT    98.55 Pn_tot    84.65
+Al42(j2n,Ex.=0.25 MeV)=>Si42 qval_exp# 25.15 qval_tho 27.92883896192818
+ExpQ:  hl(GT-only)   5.4075e-03       5.408 ms  h1/2[sec]   4.1411e-03       4.141 ms  Pn_GT    96.47 Pn_tot    85.45
+ThoQ:  hl(GT-only)   2.3049e-03       2.305 ms  h1/2[sec]   1.7744e-03       1.774 ms  Pn_GT    97.24 Pn_tot    86.12
+Al42(j4n,Ex.=0.10 MeV)=>Si42 qval_exp# 25.15 qval_tho 27.782838961928164
+ExpQ:  hl(GT-only)   5.5807e-03       5.581 ms  h1/2[sec]   4.4651e-03       4.465 ms  Pn_GT    85.97 Pn_tot    79.69
+ThoQ:  hl(GT-only)   2.4819e-03       2.482 ms  h1/2[sec]   1.9923e-03       1.992 ms  Pn_GT    88.90 Pn_tot    82.45
+Al42(j6n)=>Si42 qval_exp# 25.15 qval_tho 27.677838961928174
+ExpQ:  hl(GT-only)   5.5044e-03       5.504 ms  h1/2[sec]   4.3145e-03       4.315 ms  Pn_GT    95.21 Pn_tot    81.68
+ThoQ:  hl(GT-only)   2.5407e-03       2.541 ms  h1/2[sec]   1.9947e-03       1.995 ms  Pn_GT    96.13 Pn_tot    82.55
+Al42(j8n,Ex.=0.34 MeV)=>Si42 qval_exp# 25.15 qval_tho 28.021838961928168
+ExpQ:  hl(GT-only)   6.6687e-03       6.669 ms  h1/2[sec]   5.9324e-03       5.932 ms  Pn_GT    90.53 Pn_tot    89.48
+ThoQ:  hl(GT-only)   2.7175e-03       2.718 ms  h1/2[sec]   2.4250e-03       2.425 ms  Pn_GT    92.75 Pn_tot    91.74
+Al43(j5p)=>Si43 qval_exp# 23.94 qval_tho 25.83420648636458
+ExpQ:  hl(GT-only)   3.9773e-03       3.977 ms  h1/2[sec]   3.0959e-03       3.096 ms  Pn_GT   100.00 Pn_tot    99.18
+ThoQ:  hl(GT-only)   2.2574e-03       2.257 ms  h1/2[sec]   1.7634e-03       1.763 ms  Pn_GT   100.00 Pn_tot    99.23
+experimental qval is not available from amedata.jl, so Qval is set 0.0
+Al44(j2n,Ex.=0.18 MeV)=>Si44 qval_exp 0.0 qval_tho 29.5882342696208
+ExpQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]          NaN         NaN sec Pn_GT      NaN Pn_tot      NaN
+ThoQ:  hl(GT-only)   1.8048e-03       1.805 ms  h1/2[sec]   1.1825e-03       1.182 ms  Pn_GT   100.00 Pn_tot    78.97
+experimental qval is not available from amedata.jl, so Qval is set 0.0
+Al44(j4n)=>Si44 qval_exp 0.0 qval_tho 29.407234269620787
+ExpQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]          NaN         NaN sec Pn_GT      NaN Pn_tot      NaN
+ThoQ:  hl(GT-only)   1.7980e-03       1.798 ms  h1/2[sec]   1.3777e-03       1.378 ms  Pn_GT   100.00 Pn_tot    94.93
+experimental qval is not available from amedata.jl, so Qval is set 0.0
+Al44(j6n,Ex.=0.27 MeV)=>Si44 qval_exp 0.0 qval_tho 29.674234269620783
+ExpQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]          Inf         Inf y   Pn_GT      NaN Pn_tot      NaN
+ThoQ:  hl(GT-only)   1.6715e-03       1.672 ms  h1/2[sec]   1.2765e-03       1.277 ms  Pn_GT   100.00 Pn_tot    95.02
+experimental qval is not available from amedata.jl, so Qval is set 0.0
+Al44(j8n,Ex.=0.08 MeV)=>Si44 qval_exp 0.0 qval_tho 29.4872342696208
+ExpQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]          Inf         Inf y   Pn_GT      NaN Pn_tot      NaN
+ThoQ:  hl(GT-only)   1.8547e-03       1.855 ms  h1/2[sec]   1.4585e-03       1.458 ms  Pn_GT   100.00 Pn_tot    99.36
+experimental qval is not available from amedata.jl, so Qval is set 0.0
+Al45(j5p)=>Si45 qval_exp 0.0 qval_tho 27.909186525576573
+ExpQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]          NaN         NaN sec Pn_GT      NaN Pn_tot      NaN
+ThoQ:  hl(GT-only)   1.4973e-03       1.497 ms  h1/2[sec]   1.0983e-03       1.098 ms  Pn_GT   100.00 Pn_tot    93.53
+experimental qval is not available from amedata.jl, so Qval is set 0.0
+Al46(j4n)=>Si46 qval_exp 0.0 qval_tho 31.30629312868588
+ExpQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]          NaN         NaN sec Pn_GT      NaN Pn_tot      NaN
+ThoQ:  hl(GT-only)   1.2868e-03       1.287 ms  h1/2[sec]   8.8310e-04     883.097 μs  Pn_GT      NaN Pn_tot      NaN
+experimental qval is not available from amedata.jl, so Qval is set 0.0
+Al46(j6n,Ex.=0.25 MeV)=>Si46 qval_exp 0.0 qval_tho 31.55429312868587
+ExpQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]          Inf         Inf y   Pn_GT      NaN Pn_tot      NaN
+ThoQ:  hl(GT-only)   7.5067e-04     750.672 μs  h1/2[sec]   5.8444e-04     584.445 μs  Pn_GT      NaN Pn_tot      NaN
+experimental qval is not available from amedata.jl, so Qval is set 0.0
+Al47(j5p)=>Si47 qval_exp 0.0 qval_tho 30.61575487337184
+ExpQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]          NaN         NaN sec Pn_GT      NaN Pn_tot      NaN
+ThoQ:  hl(GT-only)   9.5974e-04     959.736 μs  h1/2[sec]   6.0548e-04     605.480 μs  Pn_GT      NaN Pn_tot      NaN
+Si34(j0p)=>P34 qval_exp 4.5570175 qval_tho 4.791164039210529
+ExpQ:  hl(GT-only)   4.1607e+00       4.161 sec h1/2[sec]   4.1607e+00       4.161 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   3.1365e+00       3.136 sec h1/2[sec]   3.1365e+00       3.136 sec Pn_GT     0.00 Pn_tot     0.00
+Si35(j7n)=>P35 qval_exp 10.466329100000001 qval_tho 10.351918586018757
+ExpQ:  hl(GT-only)   6.0646e-01     606.456 ms  h1/2[sec]   6.0372e-01     603.722 ms  Pn_GT     0.10 Pn_tot     0.10
+ThoQ:  hl(GT-only)   6.6754e-01     667.540 ms  h1/2[sec]   6.6453e-01     664.533 ms  Pn_GT     0.09 Pn_tot     0.09
+Si36(j0p)=>P36 qval_exp 7.8149194 qval_tho 7.836593716328211
+ExpQ:  hl(GT-only)   3.7570e-01     375.700 ms  h1/2[sec]   3.7469e-01     374.690 ms  Pn_GT     3.62 Pn_tot     3.64
+ThoQ:  hl(GT-only)   3.6940e-01     369.402 ms  h1/2[sec]   3.6841e-01     368.407 ms  Pn_GT     3.67 Pn_tot     3.69
+Si37(j5n)=>P37 qval_exp 12.4245003 qval_tho 12.529268466004213
+ExpQ:  hl(GT-only)   1.2880e-01     128.796 ms  h1/2[sec]   1.2612e-01     126.121 ms  Pn_GT     6.37 Pn_tot     6.24
+ThoQ:  hl(GT-only)   1.2070e-01     120.698 ms  h1/2[sec]   1.1821e-01     118.214 ms  Pn_GT     6.62 Pn_tot     6.48
+Si38(j0p)=>P38 qval_exp 10.451265600000001 qval_tho 10.827974270140446
+ExpQ:  hl(GT-only)   9.1605e-02      91.605 ms  h1/2[sec]   9.0235e-02      90.235 ms  Pn_GT    18.78 Pn_tot    18.54
+ThoQ:  hl(GT-only)   7.3260e-02      73.260 ms  h1/2[sec]   7.2158e-02      72.158 ms  Pn_GT    20.27 Pn_tot    20.02
+Si39(j3n,Ex.=0.10 MeV)=>P39 qval_exp 15.0949874 qval_tho 15.499644073973899
+ExpQ:  hl(GT-only)   4.5973e-02      45.973 ms  h1/2[sec]   4.1579e-02      41.579 ms  Pn_GT    34.18 Pn_tot    30.92
+ThoQ:  hl(GT-only)   3.7218e-02      37.218 ms  h1/2[sec]   3.3873e-02      33.873 ms  Pn_GT    35.88 Pn_tot    32.66
+Si39(j5n)=>P39 qval_exp 15.0949874 qval_tho 15.401644073973886
+ExpQ:  hl(GT-only)   3.7686e-02      37.686 ms  h1/2[sec]   3.6430e-02      36.430 ms  Pn_GT    21.04 Pn_tot    20.33
+ThoQ:  hl(GT-only)   3.2466e-02      32.466 ms  h1/2[sec]   3.1394e-02      31.394 ms  Pn_GT    22.10 Pn_tot    21.37
+Si39(j7n,Ex.=0.04 MeV)=>P39 qval_exp 15.0949874 qval_tho 15.445644073973897
+ExpQ:  hl(GT-only)   4.5225e-02      45.225 ms  h1/2[sec]   4.3990e-02      43.990 ms  Pn_GT    23.89 Pn_tot    23.24
+ThoQ:  hl(GT-only)   3.7906e-02      37.906 ms  h1/2[sec]   3.6879e-02      36.879 ms  Pn_GT    25.20 Pn_tot    24.52
+Si40(j0p)=>P40 qval_exp 13.8060653 qval_tho 13.847059822810325
+ExpQ:  hl(GT-only)   2.5409e-02      25.409 ms  h1/2[sec]   2.4413e-02      24.413 ms  Pn_GT    31.40 Pn_tot    30.62
+ThoQ:  hl(GT-only)   2.4923e-02      24.923 ms  h1/2[sec]   2.3947e-02      23.947 ms  Pn_GT    31.57 Pn_tot    30.78
+Si41(j3n)=>P41 qval_exp# 18.18 qval_tho 17.585881402956474
+ExpQ:  hl(GT-only)   1.1480e-02      11.480 ms  h1/2[sec]   1.0922e-02      10.922 ms  Pn_GT    59.65 Pn_tot    56.77
+ThoQ:  hl(GT-only)   1.4789e-02      14.789 ms  h1/2[sec]   1.4040e-02      14.040 ms  Pn_GT    58.05 Pn_tot    55.14
+Si42(j0p)=>P42 qval_exp# 15.748 qval_tho 15.302669214657316
+ExpQ:  hl(GT-only)   9.3281e-03       9.328 ms  h1/2[sec]   8.8782e-03       8.878 ms  Pn_GT    77.68 Pn_tot    76.77
+ThoQ:  hl(GT-only)   1.1188e-02      11.188 ms  h1/2[sec]   1.0643e-02      10.643 ms  Pn_GT    77.01 Pn_tot    76.17
+Si43(j1n,Ex.=0.05 MeV)=>P43 qval_exp# 19.289 qval_tho 20.07490194674081
+ExpQ:  hl(GT-only)   9.2443e-03       9.244 ms  h1/2[sec]   7.5833e-03       7.583 ms  Pn_GT    99.86 Pn_tot    82.86
+ThoQ:  hl(GT-only)   6.8268e-03       6.827 ms  h1/2[sec]   5.6492e-03       5.649 ms  Pn_GT    99.87 Pn_tot    83.53
+Si43(j3n)=>P43 qval_exp# 19.289 qval_tho 20.027901946740812
+ExpQ:  hl(GT-only)   1.1334e-02      11.334 ms  h1/2[sec]   9.4570e-03       9.457 ms  Pn_GT    99.23 Pn_tot    83.21
+ThoQ:  hl(GT-only)   8.4686e-03       8.469 ms  h1/2[sec]   7.1136e-03       7.114 ms  Pn_GT    99.28 Pn_tot    83.82
+Si44(j0p)=>P44 qval_exp# 18.2 qval_tho 19.186990697043896
+ExpQ:  hl(GT-only)   1.0589e-02      10.589 ms  h1/2[sec]   8.1406e-03       8.141 ms  Pn_GT   100.00 Pn_tot    80.64
+ThoQ:  hl(GT-only)   7.1936e-03       7.194 ms  h1/2[sec]   5.5935e-03       5.593 ms  Pn_GT   100.00 Pn_tot    81.35
+Si45(j1n)=>P45 qval_exp# 21.13 qval_tho 22.687290282272855
+ExpQ:  hl(GT-only)   8.9625e-03       8.962 ms  h1/2[sec]   5.6889e-03       5.689 ms  Pn_GT   100.00 Pn_tot    68.34
+ThoQ:  hl(GT-only)   5.0364e-03       5.036 ms  h1/2[sec]   3.3161e-03       3.316 ms  Pn_GT   100.00 Pn_tot    70.66
+Si45(j3n,Ex.=0.12 MeV)=>P45 qval_exp# 21.13 qval_tho 22.80329028227284
+ExpQ:  hl(GT-only)   1.1417e-02      11.417 ms  h1/2[sec]   7.2266e-03       7.227 ms  Pn_GT   100.00 Pn_tot    68.06
+ThoQ:  hl(GT-only)   6.0142e-03       6.014 ms  h1/2[sec]   3.9652e-03       3.965 ms  Pn_GT   100.00 Pn_tot    70.44
+experimental qval is not available from amedata.jl, so Qval is set 0.0
+Si46(j0p)=>P46 qval_exp 0.0 qval_tho 21.309108366208037
+ExpQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]          NaN         NaN sec Pn_GT      NaN Pn_tot      NaN
+ThoQ:  hl(GT-only)   4.6504e-03       4.650 ms  h1/2[sec]   2.8551e-03       2.855 ms  Pn_GT   100.00 Pn_tot    78.99
+experimental qval is not available from amedata.jl, so Qval is set 0.0
+Si47(j1n)=>P47 qval_exp 0.0 qval_tho 24.747712879845707
+ExpQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]          NaN         NaN sec Pn_GT      NaN Pn_tot      NaN
+ThoQ:  hl(GT-only)   3.7923e-03       3.792 ms  h1/2[sec]   1.8019e-03       1.802 ms  Pn_GT   100.00 Pn_tot    72.97
+experimental qval is not available from amedata.jl, so Qval is set 0.0
+Si48(j0p)=>P48 qval_exp 0.0 qval_tho 24.355338093493927
+ExpQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]          NaN         NaN sec Pn_GT      NaN Pn_tot      NaN
+ThoQ:  hl(GT-only)   2.6651e-03       2.665 ms  h1/2[sec]   1.2253e-03       1.225 ms  Pn_GT      NaN Pn_tot      NaN
+P37(j1p)=>S37 qval_exp 7.9004135 qval_tho 7.735295910451769
+ExpQ:  hl(GT-only)   1.8594e+00       1.859 sec h1/2[sec]   1.8472e+00       1.847 sec Pn_GT     6.19 Pn_tot     6.22
+ThoQ:  hl(GT-only)   2.1468e+00       2.147 sec h1/2[sec]   2.1329e+00       2.133 sec Pn_GT     5.41 Pn_tot     5.44
+P38(j2n,Ex.=0.16 MeV)=>S38 qval_exp 12.2396512 qval_tho 12.019577641259206
+ExpQ:  hl(GT-only)   4.0589e-01     405.890 ms  h1/2[sec]   3.8885e-01     388.851 ms  Pn_GT     5.01 Pn_tot     4.80
+ThoQ:  hl(GT-only)   4.7083e-01     470.832 ms  h1/2[sec]   4.5086e-01     450.861 ms  Pn_GT     4.32 Pn_tot     4.13
+P38(j4n)=>S38 qval_exp 12.2396512 qval_tho 11.86157764125919
+ExpQ:  hl(GT-only)   3.6947e-01     369.469 ms  h1/2[sec]   3.5056e-01     350.564 ms  Pn_GT     4.08 Pn_tot     3.88
+ThoQ:  hl(GT-only)   4.7555e-01     475.549 ms  h1/2[sec]   4.5047e-01     450.474 ms  Pn_GT     3.09 Pn_tot     2.93
+P38(j6n,Ex.=0.28 MeV)=>S38 qval_exp 12.2396512 qval_tho 12.145577641259182
+ExpQ:  hl(GT-only)   5.4740e-01     547.401 ms  h1/2[sec]   5.2977e-01     529.773 ms  Pn_GT     5.57 Pn_tot     5.39
+ThoQ:  hl(GT-only)   5.8502e-01     585.020 ms  h1/2[sec]   5.6598e-01     565.976 ms  Pn_GT     5.25 Pn_tot     5.08
+P38(j8n,Ex.=0.42 MeV)=>S38 qval_exp 12.2396512 qval_tho 12.282577641259182
+ExpQ:  hl(GT-only)   4.7268e-01     472.681 ms  h1/2[sec]   4.6085e-01     460.853 ms  Pn_GT     5.96 Pn_tot     5.82
+ThoQ:  hl(GT-only)   4.5959e-01     459.592 ms  h1/2[sec]   4.4809e-01     448.086 ms  Pn_GT     6.13 Pn_tot     5.98
+P39(j1p)=>S39 qval_exp 10.388036099999999 qval_tho 10.686803657111044
+ExpQ:  hl(GT-only)   3.3192e-01     331.918 ms  h1/2[sec]   3.2238e-01     322.383 ms  Pn_GT    22.32 Pn_tot    21.82
+ThoQ:  hl(GT-only)   2.7399e-01     273.993 ms  h1/2[sec]   2.6614e-01     266.144 ms  Pn_GT    24.68 Pn_tot    24.12
+P40(j4n)=>S40 qval_exp 14.6986603 qval_tho 14.977041582696147
+ExpQ:  hl(GT-only)   1.4671e-01     146.712 ms  h1/2[sec]   1.3372e-01     133.716 ms  Pn_GT    21.11 Pn_tot    19.24
+ThoQ:  hl(GT-only)   1.2606e-01     126.062 ms  h1/2[sec]   1.1509e-01     115.088 ms  Pn_GT    22.80 Pn_tot    20.81
+P40(j6n,Ex.=0.32 MeV)=>S40 qval_exp 14.6986603 qval_tho 15.298041582696145
+ExpQ:  hl(GT-only)   1.9515e-01     195.151 ms  h1/2[sec]   1.8562e-01     185.619 ms  Pn_GT    23.53 Pn_tot    22.39
+ThoQ:  hl(GT-only)   1.3944e-01     139.439 ms  h1/2[sec]   1.3278e-01     132.778 ms  Pn_GT    27.33 Pn_tot    26.03
+P41(j1p)=>S41 qval_exp 14.0288125 qval_tho 14.517186802399111
+ExpQ:  hl(GT-only)   1.1072e-01     110.725 ms  h1/2[sec]   1.0272e-01     102.720 ms  Pn_GT    40.70 Pn_tot    38.50
+ThoQ:  hl(GT-only)   8.5896e-02      85.896 ms  h1/2[sec]   7.9797e-02      79.797 ms  Pn_GT    44.17 Pn_tot    41.80
+P42(j0n)=>S42 qval_exp 18.7295899 qval_tho 19.120995404009804
+ExpQ:  hl(GT-only)   5.5969e-02      55.969 ms  h1/2[sec]   3.6982e-02      36.982 ms  Pn_GT    49.75 Pn_tot    33.22
+ThoQ:  hl(GT-only)   4.6526e-02      46.526 ms  h1/2[sec]   3.1670e-02      31.670 ms  Pn_GT    51.83 Pn_tot    35.63
+P42(j2n,Ex.=0.13 MeV)=>S42 qval_exp 18.7295899 qval_tho 19.253995404009814
+ExpQ:  hl(GT-only)   5.6085e-02      56.085 ms  h1/2[sec]   4.4198e-02      44.198 ms  Pn_GT    54.66 Pn_tot    43.38
+ThoQ:  hl(GT-only)   4.3702e-02      43.702 ms  h1/2[sec]   3.4781e-02      34.781 ms  Pn_GT    57.20 Pn_tot    45.82
+P42(j4n,Ex.=0.19 MeV)=>S42 qval_exp 18.7295899 qval_tho 19.30899540400982
+ExpQ:  hl(GT-only)   6.1616e-02      61.616 ms  h1/2[sec]   5.3294e-02      53.294 ms  Pn_GT    58.79 Pn_tot    50.95
+ThoQ:  hl(GT-only)   4.6621e-02      46.621 ms  h1/2[sec]   4.0703e-02      40.703 ms  Pn_GT    61.57 Pn_tot    53.86
+P42(j6n,Ex.=0.29 MeV)=>S42 qval_exp 18.7295899 qval_tho 19.410995404009796
+ExpQ:  hl(GT-only)   6.4127e-02      64.127 ms  h1/2[sec]   6.0898e-02      60.898 ms  Pn_GT    68.27 Pn_tot    64.88
+ThoQ:  hl(GT-only)   4.6003e-02      46.003 ms  h1/2[sec]   4.3725e-02      43.725 ms  Pn_GT    70.81 Pn_tot    67.36
+P42(j8n,Ex.=0.41 MeV)=>S42 qval_exp 18.7295899 qval_tho 19.533995404009815
+ExpQ:  hl(GT-only)   6.8429e-02      68.429 ms  h1/2[sec]   6.6198e-02      66.198 ms  Pn_GT    75.65 Pn_tot    73.19
+ThoQ:  hl(GT-only)   4.6185e-02      46.185 ms  h1/2[sec]   4.4769e-02      44.769 ms  Pn_GT    78.12 Pn_tot    75.73
+P43(j1p)=>S43 qval_exp# 17.236 qval_tho 17.196109888505006
+ExpQ:  hl(GT-only)   3.1709e-02      31.709 ms  h1/2[sec]   2.8337e-02      28.337 ms  Pn_GT    98.30 Pn_tot    94.35
+ThoQ:  hl(GT-only)   3.2306e-02      32.306 ms  h1/2[sec]   2.8861e-02      28.861 ms  Pn_GT    98.29 Pn_tot    94.33
+P44(j0n)=>S44 qval_exp# 20.314 qval_tho 20.643079425157154
+ExpQ:  hl(GT-only)   2.1597e-02      21.597 ms  h1/2[sec]   1.6643e-02      16.643 ms  Pn_GT    97.97 Pn_tot    78.40
+ThoQ:  hl(GT-only)   1.8767e-02      18.767 ms  h1/2[sec]   1.4679e-02      14.679 ms  Pn_GT    98.05 Pn_tot    79.55
+P44(j2n,Ex.=0.27 MeV)=>S44 qval_exp# 20.314 qval_tho 20.91007942515715
+ExpQ:  hl(GT-only)   2.3872e-02      23.872 ms  h1/2[sec]   1.8026e-02      18.026 ms  Pn_GT    96.85 Pn_tot    74.73
+ThoQ:  hl(GT-only)   1.8432e-02      18.432 ms  h1/2[sec]   1.4096e-02      14.096 ms  Pn_GT    97.08 Pn_tot    75.78
+P44(j4n,Ex.=0.35 MeV)=>S44 qval_exp# 20.314 qval_tho 20.995079425157186
+ExpQ:  hl(GT-only)   2.9081e-02      29.081 ms  h1/2[sec]   2.4700e-02      24.700 ms  Pn_GT    92.15 Pn_tot    79.47
+ThoQ:  hl(GT-only)   2.1563e-02      21.563 ms  h1/2[sec]   1.8610e-02      18.610 ms  Pn_GT    92.84 Pn_tot    81.36
+P45(j1p)=>S45 qval_exp# 19.301 qval_tho 19.62937594989343
+ExpQ:  hl(GT-only)   1.8900e-02      18.900 ms  h1/2[sec]   1.3645e-02      13.645 ms  Pn_GT   100.00 Pn_tot    78.18
+ThoQ:  hl(GT-only)   1.6385e-02      16.385 ms  h1/2[sec]   1.1941e-02      11.941 ms  Pn_GT   100.00 Pn_tot    78.78
+P46(j0n)=>S46 qval_exp# 22.2 qval_tho 23.241407064747236
+ExpQ:  hl(GT-only)   1.7969e-02      17.969 ms  h1/2[sec]   1.0990e-02      10.990 ms  Pn_GT   100.00 Pn_tot    68.73
+ThoQ:  hl(GT-only)   1.1690e-02      11.690 ms  h1/2[sec]   7.5461e-03       7.546 ms  Pn_GT   100.00 Pn_tot    71.81
+P46(j2n,Ex.=0.47 MeV)=>S46 qval_exp# 22.2 qval_tho 23.71440706474725
+ExpQ:  hl(GT-only)   1.9806e-02      19.806 ms  h1/2[sec]   1.2320e-02      12.320 ms  Pn_GT   100.00 Pn_tot    72.84
+ThoQ:  hl(GT-only)   1.0595e-02      10.595 ms  h1/2[sec]   6.9682e-03       6.968 ms  Pn_GT   100.00 Pn_tot    75.01
+P46(j4n,Ex.=0.15 MeV)=>S46 qval_exp# 22.2 qval_tho 23.392407064747246
+ExpQ:  hl(GT-only)   2.2765e-02      22.765 ms  h1/2[sec]   1.4947e-02      14.947 ms  Pn_GT   100.00 Pn_tot    73.18
+ThoQ:  hl(GT-only)   1.3674e-02      13.674 ms  h1/2[sec]   9.4186e-03       9.419 ms  Pn_GT   100.00 Pn_tot    75.77
+P47(j1p)=>S47 qval_exp# 21.61 qval_tho 21.562526452936012
+ExpQ:  hl(GT-only)   9.2306e-03       9.231 ms  h1/2[sec]   5.4835e-03       5.484 ms  Pn_GT   100.00 Pn_tot    78.33
+ThoQ:  hl(GT-only)   9.4077e-03       9.408 ms  h1/2[sec]   5.5783e-03       5.578 ms  Pn_GT   100.00 Pn_tot    78.27
+experimental qval is not available from amedata.jl, so Qval is set 0.0
+P48(j0n)=>S48 qval_exp 0.0 qval_tho 24.64504234796975
+ExpQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]          NaN         NaN sec Pn_GT      NaN Pn_tot      NaN
+ThoQ:  hl(GT-only)   8.6896e-03       8.690 ms  h1/2[sec]   4.0782e-03       4.078 ms  Pn_GT   100.00 Pn_tot    69.34
+experimental qval is not available from amedata.jl, so Qval is set 0.0
+P48(j2n,Ex.=0.39 MeV)=>S48 qval_exp 0.0 qval_tho 25.033042347969754
+ExpQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]          NaN         NaN sec Pn_GT      NaN Pn_tot      NaN
+ThoQ:  hl(GT-only)   6.8917e-03       6.892 ms  h1/2[sec]   3.3160e-03       3.316 ms  Pn_GT   100.00 Pn_tot    69.01
+experimental qval is not available from amedata.jl, so Qval is set 0.0
+P49(j1p)=>S49 qval_exp 0.0 qval_tho 24.154224466313863
+ExpQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]          NaN         NaN sec Pn_GT      NaN Pn_tot      NaN
+ThoQ:  hl(GT-only)   4.7079e-03       4.708 ms  h1/2[sec]   2.1931e-03       2.193 ms  Pn_GT   100.00 Pn_tot    79.01
+S38(j0p)=>Cl38 qval_exp 2.9369 qval_tho 3.270366777990817
+ExpQ:  hl(GT-only)   5.2947e+03      88.245 min h1/2[sec]   4.9199e+03      81.998 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   1.7329e+03      28.882 min h1/2[sec]   1.6407e+03      27.344 min Pn_GT     0.00 Pn_tot     0.00
+S39(j3n)=>Cl39 qval_exp 6.6375463 qval_tho 6.583017623735786
+ExpQ:  hl(GT-only)   1.6522e+01      16.522 sec h1/2[sec]   1.5495e+01      15.495 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   1.7827e+01      17.827 sec h1/2[sec]   1.6695e+01      16.695 sec Pn_GT     0.00 Pn_tot     0.00
+S39(j5n,Ex.=0.14 MeV)=>Cl39 qval_exp 6.6375463 qval_tho 6.720017623735786
+ExpQ:  hl(GT-only)   1.5575e+01      15.575 sec h1/2[sec]   1.5163e+01      15.163 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   1.3892e+01      13.892 sec h1/2[sec]   1.3536e+01      13.536 sec Pn_GT     0.00 Pn_tot     0.00
+S39(j7n,Ex.=0.19 MeV)=>Cl39 qval_exp 6.6375463 qval_tho 6.771017623735831
+ExpQ:  hl(GT-only)   2.1015e+01      21.015 sec h1/2[sec]   2.0646e+01      20.646 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   1.7299e+01      17.299 sec h1/2[sec]   1.7008e+01      17.008 sec Pn_GT     0.00 Pn_tot     0.00
+S40(j0p)=>Cl40 qval_exp 4.719968700000001 qval_tho 5.199466723885835
+ExpQ:  hl(GT-only)   1.5050e+01      15.050 sec h1/2[sec]   1.4971e+01      14.971 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   7.2615e+00       7.262 sec h1/2[sec]   7.2255e+00       7.225 sec Pn_GT     0.00 Pn_tot     0.00
+S41(j5n)=>Cl41 qval_exp 8.298611600000001 qval_tho 8.499923553347417
+ExpQ:  hl(GT-only)   2.1288e+00       2.129 sec h1/2[sec]   2.0924e+00       2.092 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   1.7383e+00       1.738 sec h1/2[sec]   1.7095e+00       1.709 sec Pn_GT     0.00 Pn_tot     0.00
+S42(j0p)=>Cl42 qval_exp 7.1940221 qval_tho 7.700403029172279
+ExpQ:  hl(GT-only)   1.4399e+00       1.440 sec h1/2[sec]   1.4262e+00       1.426 sec Pn_GT     0.15 Pn_tot     0.15
+ThoQ:  hl(GT-only)   8.9405e-01     894.052 ms  h1/2[sec]   8.8555e-01     885.554 ms  Pn_GT     0.37 Pn_tot     0.37
+S43(j1n,Ex.=0.14 MeV)=>Cl43 qval_exp 11.964049999999999 qval_tho 12.454762644350597
+ExpQ:  hl(GT-only)   1.7186e-01     171.857 ms  h1/2[sec]   1.6595e-01     165.950 ms  Pn_GT     2.66 Pn_tot     2.57
+ThoQ:  hl(GT-only)   1.2856e-01     128.557 ms  h1/2[sec]   1.2437e-01     124.372 ms  Pn_GT     3.66 Pn_tot     3.54
+S43(j3n)=>Cl43 qval_exp 11.964049999999999 qval_tho 12.319762644350549
+ExpQ:  hl(GT-only)   3.5981e-01     359.806 ms  h1/2[sec]   3.3112e-01     331.120 ms  Pn_GT     8.62 Pn_tot     7.93
+ThoQ:  hl(GT-only)   2.7867e-01     278.667 ms  h1/2[sec]   2.5799e-01     257.992 ms  Pn_GT    10.05 Pn_tot     9.31
+S44(j0p)=>Cl44 qval_exp 11.2747373 qval_tho 11.737731465212748
+ExpQ:  hl(GT-only)   1.2935e-01     129.352 ms  h1/2[sec]   1.2127e-01     121.273 ms  Pn_GT    18.06 Pn_tot    17.02
+ThoQ:  hl(GT-only)   9.7462e-02      97.462 ms  h1/2[sec]   9.1643e-02      91.643 ms  Pn_GT    20.00 Pn_tot    18.90
+S45(j1n,Ex.=0.24 MeV)=>Cl45 qval_exp# 14.922 qval_tho 15.81493298905018
+ExpQ:  hl(GT-only)   6.8231e-02      68.231 ms  h1/2[sec]   5.9893e-02      59.893 ms  Pn_GT    47.82 Pn_tot    42.00
+ThoQ:  hl(GT-only)   4.2474e-02      42.474 ms  h1/2[sec]   3.7828e-02      37.828 ms  Pn_GT    51.17 Pn_tot    45.60
+S45(j3n)=>Cl45 qval_exp# 14.922 qval_tho 15.575932989050203
+ExpQ:  hl(GT-only)   7.9297e-02      79.297 ms  h1/2[sec]   7.0082e-02      70.082 ms  Pn_GT    49.02 Pn_tot    43.33
+ThoQ:  hl(GT-only)   5.5479e-02      55.479 ms  h1/2[sec]   4.9431e-02      49.431 ms  Pn_GT    51.37 Pn_tot    45.78
+S46(j0p)=>Cl46 qval_exp# 14.375 qval_tho 14.651903319739704
+ExpQ:  hl(GT-only)   4.0536e-02      40.536 ms  h1/2[sec]   3.6808e-02      36.808 ms  Pn_GT    97.27 Pn_tot    88.79
+ThoQ:  hl(GT-only)   3.5122e-02      35.122 ms  h1/2[sec]   3.1959e-02      31.959 ms  Pn_GT    97.34 Pn_tot    89.03
+S47(j1n)=>Cl47 qval_exp# 16.781 qval_tho 18.12210573806486
+ExpQ:  hl(GT-only)   3.3470e-02      33.470 ms  h1/2[sec]   2.6317e-02      26.317 ms  Pn_GT    94.10 Pn_tot    75.66
+ThoQ:  hl(GT-only)   1.7936e-02      17.936 ms  h1/2[sec]   1.4522e-02      14.522 ms  Pn_GT    94.91 Pn_tot    78.36
+S47(j3n,Ex.=0.07 MeV)=>Cl47 qval_exp# 16.781 qval_tho 18.19510573806484
+ExpQ:  hl(GT-only)   4.6320e-02      46.320 ms  h1/2[sec]   3.5629e-02      35.629 ms  Pn_GT    99.52 Pn_tot    77.05
+ThoQ:  hl(GT-only)   2.3149e-02      23.149 ms  h1/2[sec]   1.8472e-02      18.472 ms  Pn_GT    99.60 Pn_tot    80.00
+S48(j0p)=>Cl48 qval_exp# 16.67 qval_tho 16.833942470512667
+ExpQ:  hl(GT-only)   1.7738e-02      17.738 ms  h1/2[sec]   1.3959e-02      13.959 ms  Pn_GT   100.00 Pn_tot    80.66
+ThoQ:  hl(GT-only)   1.6468e-02      16.468 ms  h1/2[sec]   1.2999e-02      12.999 ms  Pn_GT   100.00 Pn_tot    80.89
+S49(j1n)=>Cl49 qval_exp# 19.652 qval_tho 20.079764262603888
+ExpQ:  hl(GT-only)   1.6703e-02      16.703 ms  h1/2[sec]   1.0972e-02      10.972 ms  Pn_GT   100.00 Pn_tot    75.94
+ThoQ:  hl(GT-only)   1.3852e-02      13.852 ms  h1/2[sec]   9.2520e-03       9.252 ms  Pn_GT   100.00 Pn_tot    76.68
+experimental qval is not available from amedata.jl, so Qval is set 0.0
+S50(j0p)=>Cl50 qval_exp 0.0 qval_tho 19.47487821801103
+ExpQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]          NaN         NaN sec Pn_GT      NaN Pn_tot      NaN
+ThoQ:  hl(GT-only)   8.0992e-03       8.099 ms  h1/2[sec]   5.6386e-03       5.639 ms  Pn_GT   100.00 Pn_tot    88.96
+Cl39(j3p)=>Ar39 qval_exp 3.4419774000000003 qval_tho 3.579613008785104
+ExpQ:  hl(GT-only)   1.2601e+03      21.001 min h1/2[sec]   1.2190e+03      20.316 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   9.5126e+02      15.854 min h1/2[sec]   9.2078e+02      15.346 min Pn_GT     0.00 Pn_tot     0.00
+Cl40(j2n,Ex.=0.03 MeV)=>Ar40 qval_exp 7.482081600000001 qval_tho 7.184371044350528
+ExpQ:  hl(GT-only)   4.1971e+01      41.971 sec h1/2[sec]   3.8895e+01      38.895 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   6.2714e+01       1.045 min h1/2[sec]   5.7655e+01      57.655 sec Pn_GT     0.00 Pn_tot     0.00
+Cl40(j4n)=>Ar40 qval_exp 7.482081600000001 qval_tho 7.154371044350527
+ExpQ:  hl(GT-only)   4.6997e+01      46.997 sec h1/2[sec]   4.1225e+01      41.225 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   7.3906e+01       1.232 min h1/2[sec]   6.3512e+01       1.059 min Pn_GT     0.00 Pn_tot     0.00
+Cl41(j1p)=>Ar41 qval_exp 5.760318 qval_tho 6.291723537930111
+ExpQ:  hl(GT-only)   3.5004e+01      35.004 sec h1/2[sec]   3.4836e+01      34.836 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   1.8268e+01      18.268 sec h1/2[sec]   1.8169e+01      18.169 sec Pn_GT     0.00 Pn_tot     0.00
+Cl42(j4n)=>Ar42 qval_exp 9.5909082 qval_tho 9.58702872586703
+ExpQ:  hl(GT-only)   6.5073e+00       6.507 sec h1/2[sec]   6.1326e+00       6.133 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   6.5335e+00       6.533 sec h1/2[sec]   6.1568e+00       6.157 sec Pn_GT     0.00 Pn_tot     0.00
+Cl42(j6n,Ex.=0.15 MeV)=>Ar42 qval_exp 9.5909082 qval_tho 9.74002872586705
+ExpQ:  hl(GT-only)   5.2774e+00       5.277 sec h1/2[sec]   5.1950e+00       5.195 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   4.5944e+00       4.594 sec h1/2[sec]   4.5222e+00       4.522 sec Pn_GT     0.00 Pn_tot     0.00
+Cl43(j1p)=>Ar43 qval_exp 7.8503001999999995 qval_tho 8.653426949316996
+ExpQ:  hl(GT-only)   5.3113e+00       5.311 sec h1/2[sec]   5.1842e+00       5.184 sec Pn_GT     2.99 Pn_tot     2.93
+ThoQ:  hl(GT-only)   2.5905e+00       2.591 sec h1/2[sec]   2.5324e+00       2.532 sec Pn_GT     7.10 Pn_tot     6.97
+Cl43(j3p,Ex.=0.27 MeV)=>Ar43 qval_exp 7.8503001999999995 qval_tho 8.922426949317002
+ExpQ:  hl(GT-only)   7.4110e+00       7.411 sec h1/2[sec]   7.2224e+00       7.222 sec Pn_GT     3.29 Pn_tot     3.20
+ThoQ:  hl(GT-only)   2.6417e+00       2.642 sec h1/2[sec]   2.5794e+00       2.579 sec Pn_GT     9.68 Pn_tot     9.45
+Cl44(j4n)=>Ar44 qval_exp 12.1942869 qval_tho 12.632882151801441
+ExpQ:  hl(GT-only)   1.0525e+00       1.053 sec h1/2[sec]   7.1126e-01     711.259 ms  Pn_GT     3.25 Pn_tot     2.19
+ThoQ:  hl(GT-only)   7.7086e-01     770.857 ms  h1/2[sec]   5.3776e-01     537.761 ms  Pn_GT     4.86 Pn_tot     3.39
+Cl45(j1p)=>Ar45 qval_exp 11.5082568 qval_tho 12.413214304868761
+ExpQ:  hl(GT-only)   3.6796e-01     367.962 ms  h1/2[sec]   3.4003e-01     340.035 ms  Pn_GT    14.97 Pn_tot    13.99
+ThoQ:  hl(GT-only)   2.2217e-01     222.171 ms  h1/2[sec]   2.0549e-01     205.487 ms  Pn_GT    20.78 Pn_tot    19.40
+Cl46(j0n)=>Ar46 qval_exp 16.036306200000002 qval_tho 17.059124982662482
+ExpQ:  hl(GT-only)   3.4593e-01     345.931 ms  h1/2[sec]   2.7143e-01     271.427 ms  Pn_GT    43.34 Pn_tot    34.71
+ThoQ:  hl(GT-only)   1.8798e-01     187.980 ms  h1/2[sec]   1.5334e-01     153.336 ms  Pn_GT    50.80 Pn_tot    42.15
+Cl46(j2n,Ex.=0.31 MeV)=>Ar46 qval_exp 16.036306200000002 qval_tho 17.37212498266247
+ExpQ:  hl(GT-only)   2.5568e-01     255.683 ms  h1/2[sec]   2.2187e-01     221.871 ms  Pn_GT    26.01 Pn_tot    22.82
+ThoQ:  hl(GT-only)   1.2273e-01     122.727 ms  h1/2[sec]   1.0796e-01     107.961 ms  Pn_GT    34.85 Pn_tot    30.91
+Cl46(j4n,Ex.=0.16 MeV)=>Ar46 qval_exp 16.036306200000002 qval_tho 17.220124982662426
+ExpQ:  hl(GT-only)   2.8763e-01     287.634 ms  h1/2[sec]   2.4084e-01     240.842 ms  Pn_GT    27.57 Pn_tot    23.10
+ThoQ:  hl(GT-only)   1.4915e-01     149.148 ms  h1/2[sec]   1.2740e-01     127.402 ms  Pn_GT    35.91 Pn_tot    30.69
+Cl46(j6n,Ex.=0.37 MeV)=>Ar46 qval_exp 16.036306200000002 qval_tho 17.428124982662453
+ExpQ:  hl(GT-only)   4.0068e-01     400.683 ms  h1/2[sec]   3.3378e-01     333.778 ms  Pn_GT    38.28 Pn_tot    31.90
+ThoQ:  hl(GT-only)   1.7661e-01     176.607 ms  h1/2[sec]   1.5077e-01     150.770 ms  Pn_GT    48.56 Pn_tot    41.46
+Cl47(j1p)=>Ar47 qval_exp# 15.787 qval_tho 16.298217708382296
+ExpQ:  hl(GT-only)   1.0349e-01     103.491 ms  h1/2[sec]   8.2927e-02      82.927 ms  Pn_GT    96.21 Pn_tot    80.23
+ThoQ:  hl(GT-only)   7.8396e-02      78.396 ms  h1/2[sec]   6.3534e-02      63.534 ms  Pn_GT    96.51 Pn_tot    81.23
+Cl47(j3p,Ex.=0.03 MeV)=>Ar47 qval_exp# 15.787 qval_tho 16.33121770838231
+ExpQ:  hl(GT-only)   1.2928e-01     129.283 ms  h1/2[sec]   1.0954e-01     109.541 ms  Pn_GT    87.02 Pn_tot    77.42
+ThoQ:  hl(GT-only)   9.4835e-02      94.835 ms  h1/2[sec]   8.1475e-02      81.475 ms  Pn_GT    88.28 Pn_tot    79.41
+Cl48(j0n,Ex.=0.08 MeV)=>Ar48 qval_exp# 18.075 qval_tho 19.51101427235413
+ExpQ:  hl(GT-only)   8.8808e-02      88.808 ms  h1/2[sec]   4.1968e-02      41.968 ms  Pn_GT   100.00 Pn_tot    49.11
+ThoQ:  hl(GT-only)   4.3005e-02      43.005 ms  h1/2[sec]   2.4531e-02      24.531 ms  Pn_GT   100.00 Pn_tot    59.04
+Cl48(j2n,Ex.=0.12 MeV)=>Ar48 qval_exp# 18.075 qval_tho 19.55201427235413
+ExpQ:  hl(GT-only)   9.8445e-02      98.445 ms  h1/2[sec]   5.9304e-02      59.304 ms  Pn_GT   100.00 Pn_tot    63.81
+ThoQ:  hl(GT-only)   4.5668e-02      45.668 ms  h1/2[sec]   2.9879e-02      29.879 ms  Pn_GT   100.00 Pn_tot    68.70
+Cl48(j4n)=>Ar48 qval_exp# 18.075 qval_tho 19.4330142723541
+ExpQ:  hl(GT-only)   1.1852e-01     118.523 ms  h1/2[sec]   8.2292e-02      82.292 ms  Pn_GT    98.37 Pn_tot    71.30
+ThoQ:  hl(GT-only)   5.7714e-02      57.714 ms  h1/2[sec]   4.3554e-02      43.554 ms  Pn_GT    98.75 Pn_tot    77.58
+Cl48(j6n,Ex.=0.06 MeV)=>Ar48 qval_exp# 18.075 qval_tho 19.491014272354093
+ExpQ:  hl(GT-only)   1.4142e-01     141.425 ms  h1/2[sec]   1.0296e-01     102.961 ms  Pn_GT    97.60 Pn_tot    76.07
+ThoQ:  hl(GT-only)   6.5413e-02      65.413 ms  h1/2[sec]   5.0549e-02      50.549 ms  Pn_GT    98.18 Pn_tot    80.50
+Cl49(j3p)=>Ar49 qval_exp# 17.8 qval_tho 18.245967918012454
+ExpQ:  hl(GT-only)   4.8591e-02      48.591 ms  h1/2[sec]   3.5568e-02      35.568 ms  Pn_GT   100.00 Pn_tot    82.07
+ThoQ:  hl(GT-only)   3.8796e-02      38.796 ms  h1/2[sec]   2.8931e-02      28.931 ms  Pn_GT   100.00 Pn_tot    83.16
+Cl50(j2n,Ex.=0.13 MeV)=>Ar50 qval_exp# 20.93 qval_tho 21.53947407208848
+ExpQ:  hl(GT-only)   3.2335e-02      32.335 ms  h1/2[sec]   1.9545e-02      19.545 ms  Pn_GT   100.00 Pn_tot    74.65
+ThoQ:  hl(GT-only)   2.4316e-02      24.316 ms  h1/2[sec]   1.5186e-02      15.186 ms  Pn_GT   100.00 Pn_tot    75.70
+Cl50(j4n)=>Ar50 qval_exp# 20.93 qval_tho 21.405474072088467
+ExpQ:  hl(GT-only)   2.7897e-02      27.897 ms  h1/2[sec]   1.9978e-02      19.978 ms  Pn_GT   100.00 Pn_tot    86.84
+ThoQ:  hl(GT-only)   2.2498e-02      22.498 ms  h1/2[sec]   1.6405e-02      16.405 ms  Pn_GT   100.00 Pn_tot    87.47
+Cl51(j3p)=>Ar51 qval_exp# 20.78 qval_tho 20.795879134033655
+ExpQ:  hl(GT-only)   1.1973e-02      11.973 ms  h1/2[sec]   8.6862e-03       8.686 ms  Pn_GT   100.00 Pn_tot    93.92
+ThoQ:  hl(GT-only)   1.1893e-02      11.893 ms  h1/2[sec]   8.6324e-03       8.632 ms  Pn_GT   100.00 Pn_tot    93.93
+Ar41(j5n)=>K41 qval_exp 2.4920392000000002 qval_tho 1.8944819498806438
+ExpQ:  hl(GT-only)   6.6080e+03     110.134 min h1/2[sec]   6.5499e+03     109.165 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   1.2042e+05    2006.953 min h1/2[sec]   1.1648e+05    1941.275 min Pn_GT     0.00 Pn_tot     0.00
+Ar41(j7n,Ex.=0.28 MeV)=>K41 qval_exp 2.4920392000000002 qval_tho 2.17348194988064
+ExpQ:  hl(GT-only)   1.4486e+04     241.430 min h1/2[sec]   1.4254e+04     237.563 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   5.3296e+04     888.267 min h1/2[sec]   5.1999e+04     866.643 min Pn_GT     0.00 Pn_tot     0.00
+Ar42(j0p)=>K42 qval_exp 0.5993527000000001 qval_tho 0.9173980401065064
+ExpQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]   1.9377e+09      61.402 y   Pn_GT      NaN Pn_tot     0.00
+ThoQ:  hl(GT-only)          Inf         Inf y   h1/2[sec]   1.9301e+08       6.116 y   Pn_GT      NaN Pn_tot     0.00
+Ar43(j3n,Ex.=0.34 MeV)=>K43 qval_exp 4.5655836 qval_tho 4.5611621774334745
+ExpQ:  hl(GT-only)   3.2821e+02       5.470 min h1/2[sec]   2.2622e+02       3.770 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   3.3103e+02       5.517 min h1/2[sec]   2.2786e+02       3.798 min Pn_GT     0.00 Pn_tot     0.00
+Ar43(j5n)=>K43 qval_exp 4.5655836 qval_tho 4.225162177433462
+ExpQ:  hl(GT-only)   2.3964e+02       3.994 min h1/2[sec]   2.1971e+02       3.662 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   5.3471e+02       8.912 min h1/2[sec]   4.7370e+02       7.895 min Pn_GT     0.00 Pn_tot     0.00
+Ar43(j7n,Ex.=0.12 MeV)=>K43 qval_exp 4.5655836 qval_tho 4.349162177433485
+ExpQ:  hl(GT-only)   2.2316e+02       3.719 min h1/2[sec]   2.1781e+02       3.630 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   3.5498e+02       5.916 min h1/2[sec]   3.4505e+02       5.751 min Pn_GT     0.00 Pn_tot     0.00
+Ar44(j0p)=>K44 qval_exp 3.1082375 qval_tho 3.40104580903848
+ExpQ:  hl(GT-only)   5.6202e+02       9.367 min h1/2[sec]   5.5495e+02       9.249 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   2.3150e+02       3.858 min h1/2[sec]   2.2931e+02       3.822 min Pn_GT     0.00 Pn_tot     0.00
+Ar45(j3n,Ex.=0.32 MeV)=>K45 qval_exp 6.8448422 qval_tho 7.001124209117266
+ExpQ:  hl(GT-only)   2.2789e+01      22.789 sec h1/2[sec]   1.5283e+01      15.283 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   1.8409e+01      18.409 sec h1/2[sec]   1.2788e+01      12.788 sec Pn_GT     0.00 Pn_tot     0.00
+Ar45(j7n)=>K45 qval_exp 6.8448422 qval_tho 6.685124209117235
+ExpQ:  hl(GT-only)   1.1485e+01      11.485 sec h1/2[sec]   1.1203e+01      11.203 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   1.4266e+01      14.266 sec h1/2[sec]   1.3893e+01      13.893 sec Pn_GT     0.00 Pn_tot     0.00
+Ar46(j0p)=>K46 qval_exp 5.6426746 qval_tho 5.8323124633484875
+ExpQ:  hl(GT-only)   7.7193e+00       7.719 sec h1/2[sec]   7.6227e+00       7.623 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   6.0919e+00       6.092 sec h1/2[sec]   6.0172e+00       6.017 sec Pn_GT     0.00 Pn_tot     0.00
+Ar47(j3n)=>K47 qval_exp 10.3447078 qval_tho 10.988393867237095
+ExpQ:  hl(GT-only)   1.8527e+00       1.853 sec h1/2[sec]   1.6752e+00       1.675 sec Pn_GT     0.65 Pn_tot     0.59
+ThoQ:  hl(GT-only)   1.0581e+00       1.058 sec h1/2[sec]   9.6910e-01     969.102 ms  Pn_GT     1.64 Pn_tot     1.50
+Ar48(j0p)=>K48 qval_exp 9.929555 qval_tho 10.225042531196538
+ExpQ:  hl(GT-only)   4.4131e-01     441.315 ms  h1/2[sec]   4.2550e-01     425.496 ms  Pn_GT    20.34 Pn_tot    19.64
+ThoQ:  hl(GT-only)   3.5292e-01     352.923 ms  h1/2[sec]   3.4058e-01     340.577 ms  Pn_GT    22.25 Pn_tot    21.50
+Ar49(j3n)=>K49 qval_exp# 12.551 qval_tho 13.261841518816015
+ExpQ:  hl(GT-only)   3.5639e-01     356.388 ms  h1/2[sec]   3.0079e-01     300.795 ms  Pn_GT    59.29 Pn_tot    50.10
+ThoQ:  hl(GT-only)   2.1654e-01     216.540 ms  h1/2[sec]   1.8672e-01     186.724 ms  Pn_GT    63.32 Pn_tot    54.66
+Ar50(j0p)=>K50 qval_exp# 12.498 qval_tho 13.054297510073399
+ExpQ:  hl(GT-only)   1.5615e-01     156.155 ms  h1/2[sec]   1.3248e-01     132.477 ms  Pn_GT    48.49 Pn_tot    41.38
+ThoQ:  hl(GT-only)   1.0996e-01     109.956 ms  h1/2[sec]   9.4706e-02      94.706 ms  Pn_GT    51.76 Pn_tot    44.83
+Ar51(j1n)=>K51 qval_exp# 16.026 qval_tho 16.338852738358682
+ExpQ:  hl(GT-only)   5.9958e-02      59.958 ms  h1/2[sec]   4.5185e-02      45.185 ms  Pn_GT    87.13 Pn_tot    66.35
+ThoQ:  hl(GT-only)   5.0758e-02      50.758 ms  h1/2[sec]   3.8695e-02      38.695 ms  Pn_GT    87.63 Pn_tot    67.51
+Ar52(j0p)=>K52 qval_exp# 15.758 qval_tho 16.200894771975797
+ExpQ:  hl(GT-only)   2.4405e-02      24.405 ms  h1/2[sec]   2.0659e-02      20.659 ms  Pn_GT   100.00 Pn_tot    85.69
+ThoQ:  hl(GT-only)   1.9851e-02      19.851 ms  h1/2[sec]   1.6907e-02      16.907 ms  Pn_GT   100.00 Pn_tot    86.25
+K41(j3p)=>Ca41 qval_exp -0.42164060000000003 qval_tho -0.34886059644482137
+ExpQ:  hl(GT-only)          Inf         Inf y   hl(GT+FF)[sec]          Inf         Inf y   Pn_GT      NaN Pn_tot      NaN
+ThoQ:  hl(GT-only)          Inf         Inf y   hl(GT+FF)[sec]          Inf         Inf y   Pn_GT      NaN Pn_tot      NaN
+K42(j6n)=>Ca42 qval_exp 3.5252626 qval_tho 2.62224143782082
+ExpQ:  hl(GT-only)   3.0546e+05    5091.078 min hl(GT+FF)[sec]   6.2583e+04    1043.045 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)          Inf         Inf y   hl(GT+FF)[sec]   6.0493e+05   10082.110 min Pn_GT      NaN Pn_tot     0.00
+K42(j4n,Ex.=0.01 MeV)=>Ca42 qval_exp 3.5252626 qval_tho 2.6322414378208108
+ExpQ:  hl(GT-only)   2.9859e+10     946.204 y   hl(GT+FF)[sec]   1.1460e+05    1909.938 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)          Inf         Inf y   hl(GT+FF)[sec]   7.1429e+05   11904.852 min Pn_GT      NaN Pn_tot     0.00
+K42(j8n,Ex.=0.26 MeV)=>Ca42 qval_exp 3.5252626 qval_tho 2.8822414378208108
+ExpQ:  hl(GT-only)   9.3089e+05   15514.901 min hl(GT+FF)[sec]   2.1163e+05    3527.104 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)          Inf         Inf y   hl(GT+FF)[sec]   2.0179e+06   33631.050 min Pn_GT      NaN Pn_tot     0.00
+K43(j3p)=>Ca43 qval_exp 1.8334783 qval_tho 1.8783630970863086
+ExpQ:  hl(GT-only)          Inf         Inf y   hl(GT+FF)[sec]   7.8164e+04    1302.733 min Pn_GT      NaN Pn_tot     0.00
+ThoQ:  hl(GT-only)   2.9314e+12   92893.578 y   hl(GT+FF)[sec]   6.7680e+04    1128.000 min Pn_GT     0.00 Pn_tot     0.00
+K43(j1p,Ex.=0.50 MeV)=>Ca43 qval_exp 1.8334783 qval_tho 2.3743630970862895
+ExpQ:  hl(GT-only)          Inf         Inf y   hl(GT+FF)[sec]   4.9104e+06   81840.489 min Pn_GT      NaN Pn_tot     0.00
+ThoQ:  hl(GT-only)   1.4563e+06   24270.968 min hl(GT+FF)[sec]   5.9693e+05    9948.760 min Pn_GT     0.00 Pn_tot     0.00
+K44(j4n)=>Ca44 qval_exp 5.6872319 qval_tho 5.001179799340563
+ExpQ:  hl(GT-only)   1.5681e+03      26.135 min hl(GT+FF)[sec]   3.1445e+02       5.241 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   9.0531e+03     150.885 min hl(GT+FF)[sec]   8.9176e+02      14.863 min Pn_GT     0.00 Pn_tot     0.00
+K44(j2n,Ex.=0.14 MeV)=>Ca44 qval_exp 5.6872319 qval_tho 5.143179799340559
+ExpQ:  hl(GT-only)   2.2428e+03      37.379 min hl(GT+FF)[sec]   1.2564e+03      20.940 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   1.1256e+04     187.602 min hl(GT+FF)[sec]   3.8003e+03      63.338 min Pn_GT     0.00 Pn_tot     0.00
+K44(j6n,Ex.=0.23 MeV)=>Ca44 qval_exp 5.6872319 qval_tho 5.231179799340581
+ExpQ:  hl(GT-only)   1.9643e+03      32.738 min hl(GT+FF)[sec]   1.8031e+03      30.052 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   5.7065e+03      95.108 min hl(GT+FF)[sec]   5.0342e+03      83.904 min Pn_GT     0.00 Pn_tot     0.00
+K44(j8n,Ex.=0.35 MeV)=>Ca44 qval_exp 5.6872319 qval_tho 5.34617979934059
+ExpQ:  hl(GT-only)   2.5335e+03      42.225 min hl(GT+FF)[sec]   6.2454e+02      10.409 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   5.9079e+03      98.464 min hl(GT+FF)[sec]   1.0177e+03      16.961 min Pn_GT     0.00 Pn_tot     0.00
+K45(j3p)=>Ca45 qval_exp 4.1965868 qval_tho 4.645099564782002
+ExpQ:  hl(GT-only)   6.1438e+03     102.396 min hl(GT+FF)[sec]   6.2882e+02      10.480 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   1.9110e+03      31.850 min hl(GT+FF)[sec]   3.2407e+02       5.401 min Pn_GT     0.00 Pn_tot     0.00
+K45(j1p,Ex.=0.16 MeV)=>Ca45 qval_exp 4.1965868 qval_tho 4.806099564782003
+ExpQ:  hl(GT-only)   2.1937e+03      36.561 min hl(GT+FF)[sec]   2.0724e+03      34.539 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   5.1069e+02       8.511 min hl(GT+FF)[sec]   4.9219e+02       8.203 min Pn_GT     0.00 Pn_tot     0.00
+K46(j4n)=>Ca46 qval_exp 7.7256802 qval_tho 8.019313708057313
+ExpQ:  hl(GT-only)   1.1669e+02       1.945 min hl(GT+FF)[sec]   2.6886e+01      26.886 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   7.9151e+01       1.319 min hl(GT+FF)[sec]   2.1254e+01      21.254 sec Pn_GT     0.00 Pn_tot     0.00
+K46(j6n,Ex.=0.01 MeV)=>Ca46 qval_exp 7.7256802 qval_tho 8.027313708057294
+ExpQ:  hl(GT-only)   2.0085e+02       3.347 min hl(GT+FF)[sec]   1.7477e+02       2.913 min Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   1.2858e+02       2.143 min hl(GT+FF)[sec]   1.1417e+02       1.903 min Pn_GT     0.00 Pn_tot     0.00
+K46(j8n,Ex.=0.29 MeV)=>Ca46 qval_exp 7.7256802 qval_tho 8.311313708057286
+ExpQ:  hl(GT-only)   2.8497e+01      28.497 sec hl(GT+FF)[sec]   2.5564e+01      25.564 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   1.4907e+01      14.907 sec hl(GT+FF)[sec]   1.3628e+01      13.628 sec Pn_GT     0.00 Pn_tot     0.00
+K47(j1p)=>Ca47 qval_exp 6.632683699999999 qval_tho 7.391836502079216
+ExpQ:  hl(GT-only)   2.0111e+01      20.111 sec hl(GT+FF)[sec]   1.9905e+01      19.905 sec Pn_GT     0.00 Pn_tot     0.00
+ThoQ:  hl(GT-only)   9.0113e+00       9.011 sec hl(GT+FF)[sec]   8.9006e+00       8.901 sec Pn_GT     0.00 Pn_tot     0.00
+K48(j4n)=>Ca48 qval_exp 11.9403857 qval_tho 12.952536499411439
+ExpQ:  hl(GT-only)   7.6631e+00       7.663 sec hl(GT+FF)[sec]   5.1967e+00       5.197 sec Pn_GT     0.92 Pn_tot     0.63
+ThoQ:  hl(GT-only)   3.0345e+00       3.034 sec hl(GT+FF)[sec]   2.2825e+00       2.283 sec Pn_GT     3.15 Pn_tot     2.38
+K48(j4n)=>Ca48 qval_exp 11.9403857 qval_tho 12.952536499411439
+ExpQ:  hl(GT-only)   7.6631e+00       7.663 sec hl(GT+FF)[sec]   5.1967e+00       5.197 sec Pn_GT     0.92 Pn_tot     0.63
+ThoQ:  hl(GT-only)   3.0345e+00       3.034 sec hl(GT+FF)[sec]   2.2825e+00       2.283 sec Pn_GT     3.15 Pn_tot     2.38
+K48(j2n,Ex.=0.26 MeV)=>Ca48 qval_exp 11.9403857 qval_tho 13.21453649941144
+ExpQ:  hl(GT-only)   8.0593e+00       8.059 sec hl(GT+FF)[sec]   6.4157e+00       6.416 sec Pn_GT     0.55 Pn_tot     0.44
+ThoQ:  hl(GT-only)   2.5411e+00       2.541 sec hl(GT+FF)[sec]   2.1965e+00       2.196 sec Pn_GT     3.08 Pn_tot     2.67
+K48(j6n,Ex.=0.45 MeV)=>Ca48 qval_exp 11.9403857 qval_tho 13.402536499411427
+ExpQ:  hl(GT-only)   1.1074e+01      11.074 sec hl(GT+FF)[sec]   8.9651e+00       8.965 sec Pn_GT     1.11 Pn_tot     0.90
+ThoQ:  hl(GT-only)   3.3430e+00       3.343 sec hl(GT+FF)[sec]   2.8585e+00       2.859 sec Pn_GT     6.58 Pn_tot     5.63
+K49(j3p)=>Ca49 qval_exp 11.6885069 qval_tho 12.548161477990776
+ExpQ:  hl(GT-only)   3.1442e+00       3.144 sec hl(GT+FF)[sec]   2.6026e+00       2.603 sec Pn_GT    85.44 Pn_tot    70.97
+ThoQ:  hl(GT-only)   1.4322e+00       1.432 sec hl(GT+FF)[sec]   1.2417e+00       1.242 sec Pn_GT    89.20 Pn_tot    77.58
+K49(j1p,Ex.=0.27 MeV)=>Ca49 qval_exp 11.6885069 qval_tho 12.815161477990772
+ExpQ:  hl(GT-only)   1.9976e+00       1.998 sec hl(GT+FF)[sec]   1.8115e+00       1.812 sec Pn_GT    99.99 Pn_tot    91.45
+ThoQ:  hl(GT-only)   7.5829e-01     758.286 ms  hl(GT+FF)[sec]   7.0350e-01     703.504 ms  Pn_GT    99.99 Pn_tot    93.66
+K50(j0n)=>Ca50 qval_exp 13.861377399999999 qval_tho 14.764358467602095
+ExpQ:  hl(GT-only)   3.0558e+00       3.056 sec hl(GT+FF)[sec]   1.3788e+00       1.379 sec Pn_GT    99.56 Pn_tot    46.10
+ThoQ:  hl(GT-only)   1.3051e+00       1.305 sec hl(GT+FF)[sec]   7.4442e-01     744.423 ms  Pn_GT    99.70 Pn_tot    58.26
+K50(j6n,Ex.=0.24 MeV)=>Ca50 qval_exp 13.861377399999999 qval_tho 15.00535846760208
+ExpQ:  hl(GT-only)   1.5227e+00       1.523 sec hl(GT+FF)[sec]   1.2758e+00       1.276 sec Pn_GT    54.76 Pn_tot    50.00
+ThoQ:  hl(GT-only)   6.7090e-01     670.895 ms  hl(GT+FF)[sec]   5.7561e-01     575.611 ms  Pn_GT    64.39 Pn_tot    58.99
+K50(j4n,Ex.=0.37 MeV)=>Ca50 qval_exp 13.861377399999999 qval_tho 15.13235846760209
+ExpQ:  hl(GT-only)   1.8386e+00       1.839 sec hl(GT+FF)[sec]   1.0506e+00       1.051 sec Pn_GT    75.90 Pn_tot    45.77
+ThoQ:  hl(GT-only)   6.8828e-01     688.278 ms  hl(GT+FF)[sec]   4.6509e-01     465.094 ms  Pn_GT    83.00 Pn_tot    58.53
+K50(j2n,Ex.=0.47 MeV)=>Ca50 qval_exp 13.861377399999999 qval_tho 15.237358467602109
+ExpQ:  hl(GT-only)   1.3886e+00       1.389 sec hl(GT+FF)[sec]   8.3512e-01     835.122 ms  Pn_GT    49.75 Pn_tot    30.13
+ThoQ:  hl(GT-only)   5.1495e-01     514.952 ms  hl(GT+FF)[sec]   3.5173e-01     351.729 ms  Pn_GT    60.57 Pn_tot    41.64
+K51(j3p)=>Ca51 qval_exp 13.8168529 qval_tho 14.503689946933365
+ExpQ:  hl(GT-only)   5.8415e-01     584.154 ms  hl(GT+FF)[sec]   3.2123e-01     321.228 ms  Pn_GT    70.72 Pn_tot    44.32
+ThoQ:  hl(GT-only)   3.6055e-01     360.555 ms  hl(GT+FF)[sec]   2.1335e-01     213.345 ms  Pn_GT    75.16 Pn_tot    49.60
+K52(j4n)=>Ca52 qval_exp 17.1286431 qval_tho 17.785647034732037
+ExpQ:  hl(GT-only)   1.3166e-01     131.660 ms  hl(GT+FF)[sec]   1.1894e-01     118.937 ms  Pn_GT    98.16 Pn_tot    90.62
+ThoQ:  hl(GT-only)   9.1835e-02      91.835 ms  hl(GT+FF)[sec]   8.3696e-02      83.696 ms  Pn_GT    98.37 Pn_tot    91.62
+K52(j2n,Ex.=0.25 MeV)=>Ca52 qval_exp 17.1286431 qval_tho 18.037647034732046
+ExpQ:  hl(GT-only)   1.8843e-01     188.429 ms  hl(GT+FF)[sec]   1.7340e-01     173.402 ms  Pn_GT   100.00 Pn_tot    93.39
+ThoQ:  hl(GT-only)   1.1045e-01     110.454 ms  hl(GT+FF)[sec]   1.0278e-01     102.781 ms  Pn_GT   100.00 Pn_tot    94.47
+K53(j3p)=>Ca53 qval_exp 17.0919853 qval_tho 17.724660303054563
+ExpQ:  hl(GT-only)   5.0695e-02      50.695 ms  hl(GT+FF)[sec]   4.4118e-02      44.118 ms  Pn_GT   100.00 Pn_tot    88.85
+ThoQ:  hl(GT-only)   3.6845e-02      36.845 ms  hl(GT+FF)[sec]   3.2293e-02      32.293 ms  Pn_GT   100.00 Pn_tot    89.43
+K54(j6n)=>Ca54 qval_exp# 20.01 qval_tho 21.24510869561668
+ExpQ:  hl(GT-only)   1.0274e-02      10.274 ms  hl(GT+FF)[sec]   1.0070e-02      10.070 ms  Pn_GT   100.00 Pn_tot    99.80
+ThoQ:  hl(GT-only)   6.4242e-03       6.424 ms  hl(GT+FF)[sec]   6.2928e-03       6.293 ms  Pn_GT   100.00 Pn_tot    99.83
+K54(j8n,Ex.=0.13 MeV)=>Ca54 qval_exp# 20.01 qval_tho 21.371108695616712
+ExpQ:  hl(GT-only)   9.5398e-03       9.540 ms  hl(GT+FF)[sec]   9.3448e-03       9.345 ms  Pn_GT   100.00 Pn_tot    99.88
+ThoQ:  hl(GT-only)   5.8637e-03       5.864 ms  hl(GT+FF)[sec]   5.7421e-03       5.742 ms  Pn_GT   100.00 Pn_tot    99.88
+K54(j4n,Ex.=0.15 MeV)=>Ca54 qval_exp# 20.01 qval_tho 21.390108695616718
+ExpQ:  hl(GT-only)   1.2159e-02      12.159 ms  hl(GT+FF)[sec]   1.1158e-02      11.158 ms  Pn_GT   100.00 Pn_tot    93.86
+ThoQ:  hl(GT-only)   7.1181e-03       7.118 ms  hl(GT+FF)[sec]   6.5559e-03       6.556 ms  Pn_GT   100.00 Pn_tot    94.26
+K55(j3p)=>Ca55 qval_exp# 19.121 qval_tho 20.286326925742557
+ExpQ:  hl(GT-only)   3.9638e-03       3.964 ms  hl(GT+FF)[sec]   3.8677e-03       3.868 ms  Pn_GT   100.00 Pn_tot    99.98
+ThoQ:  hl(GT-only)   2.6450e-03       2.645 ms  hl(GT+FF)[sec]   2.5779e-03       2.578 ms  Pn_GT   100.00 Pn_tot    99.98
+K56(j4n)=>Ca56 qval_exp# 21.491 qval_tho 22.05761164647957
+ExpQ:  hl(GT-only)   2.6237e-03       2.624 ms  hl(GT+FF)[sec]   2.4528e-03       2.453 ms  Pn_GT    99.99 Pn_tot    99.41
+ThoQ:  hl(GT-only)   2.1652e-03       2.165 ms  hl(GT+FF)[sec]   2.0251e-03       2.025 ms  Pn_GT    99.99 Pn_tot    99.45
+K56(j8n,Ex.=0.09 MeV)=>Ca56 qval_exp# 21.491 qval_tho 22.145611646479594
+ExpQ:  hl(GT-only)   2.5153e-03       2.515 ms  hl(GT+FF)[sec]   2.3775e-03       2.377 ms  Pn_GT    97.67 Pn_tot    97.73
+ThoQ:  hl(GT-only)   2.0234e-03       2.023 ms  hl(GT+FF)[sec]   1.9099e-03       1.910 ms  Pn_GT    97.79 Pn_tot    97.85
+K56(j6n,Ex.=0.20 MeV)=>Ca56 qval_exp# 21.491 qval_tho 22.254611646479574
+ExpQ:  hl(GT-only)   2.7008e-03       2.701 ms  hl(GT+FF)[sec]   2.5903e-03       2.590 ms  Pn_GT    99.66 Pn_tot    99.12
+ThoQ:  hl(GT-only)   2.0880e-03       2.088 ms  hl(GT+FF)[sec]   2.0013e-03       2.001 ms  Pn_GT    99.68 Pn_tot    99.15
+K57(j3p)=>Ca57 qval_exp# 20.689 qval_tho 21.423226623079913
+ExpQ:  hl(GT-only)   1.8830e-03       1.883 ms  hl(GT+FF)[sec]   1.8473e-03       1.847 ms  Pn_GT   100.00 Pn_tot    99.68
+ThoQ:  hl(GT-only)   1.4776e-03       1.478 ms  hl(GT+FF)[sec]   1.4486e-03       1.449 ms  Pn_GT   100.00 Pn_tot    99.68
