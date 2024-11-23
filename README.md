@@ -10,8 +10,10 @@ Complete data for [Phys. Rev. C 97, 054321 (2018)](https://link.aps.org/doi/10.1
 For some nuclei, we consider multiple candidates for total J of the parent ground state.  
 Please make sure which one you want to use.
 
+
 **2024/11/19**
 
+- Note **2024/11/23**: K->Ca & Mg->Al results are wrong, it will be fixed soon
 - added results of K -> Ca decays
 - updated FF contributions on Mg -> Al decays
 
