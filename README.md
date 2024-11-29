@@ -12,8 +12,6 @@ Please make sure which one you want to use.
 
 
 **2024/11/19**
-
-- Note **2024/11/23**: K->Ca & Mg->Al results are wrong, it will be fixed soon
 - added results of K -> Ca decays
 - updated FF contributions on Mg -> Al decays
 
