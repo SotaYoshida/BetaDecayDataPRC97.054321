@@ -10,6 +10,11 @@ Complete data for [Phys. Rev. C 97, 054321 (2018)](https://link.aps.org/doi/10.1
 For some nuclei, we consider multiple candidates for total J of the parent ground state.  
 Please make sure which one you want to use.
 
+**2025/03/03**
+
+The 45Cl(j3p)=>45Ar case is added (it was missing). It should also be noted that a couple of experimental works suggest that the ground state is to be $J=3/2^+$ instead of $J=1/2^+$ (g.s. predicted by the SDPF(SDG)-MU interaction):
+- I. Cox et al., Phys. Rev. Lett. 132, 152503 (2024) [DOI](https://doi.org/10.1103/PhysRevLett.132.152503)
+- V. Tripathi et al., Phys. Rev. C 109, 044320 (2024) [DOI](10.1103/PhysRevC.109.044320)
 
 **2024/11/19**
 - added results of K -> Ca decays
