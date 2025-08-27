@@ -370,7 +370,7 @@ def generate_scriptfiles(sntf, ZNrange, n_eigen=5, run_mwav_job=False):
         os.system("bash prepare_parent_daughter_lowlying_states.sh")
 
 
-def generate_0hw1hw_ptn_files(ZNrange, sntf):
+def generate_0hw1hw_ptn_files(ZNrange, sntf, hw_ofst:int=0):
     for (Z,N) in ZNrange:
         A = Z + N
         pnuc = element[Z] + str(A)
@@ -380,15 +380,15 @@ def generate_0hw1hw_ptn_files(ZNrange, sntf):
             c = "p" if parity == "+" else "n"
             ptn_f = pnuc + "_" + sntf.split(".")[0] + "_"+c+".ptn"
             os.system("python3 gen_partition_local.py "+ sntf+ " "+ ptn_f + " "
-                      + str(Z-Zcore)+ " " + str(N-Ncore)+ " " + parity)
+                      + str(Z-Zcore)+ " " + str(N-Ncore)+ " " + parity+ "  "+str(hw_ofst))
             c_d = "p" if c == "n" else "n"
             ptn_f_d = dnuc + "_" + sntf.split(".")[0] + "_"+c_d+".ptn"
             parity_d = "+" if parity == "-" else "-"
             os.system("python3 gen_partition_local.py "+ sntf+ " "+ ptn_f_d + " "
-                      + str(Z-Zcore+1)+ " " + str(N-Ncore-1)+ " " + parity_d)
+                      + str(Z-Zcore+1)+ " " + str(N-Ncore-1)+ " " + parity_d + "  "+str(hw_ofst))
 
 class BetaDecay:
-    def __init__(self, Z, N, sntf):
+    def __init__(self, Z, N, sntf, hw_ofst:int=0):
         self.Z = Z
         self.N = N
         self.A = Z + N
@@ -396,6 +396,8 @@ class BetaDecay:
         self.pnuc = element[Z] + str(self.A)
         self.dnuc = element[Z+1] + str(self.A)
         self.maindir = f"logfiles_{self.pnuc}_{self.dnuc}_{self.sntname}"
+        if hw_ofst != 0:
+            self.maindir = f"logfiles_{self.pnuc}_{self.dnuc}_{self.sntname}_{hw_ofst}hw"
         self.parent_parent_ptn = self.pnuc + "_" + self.sntname + "_p.ptn"
         self.parent_daughter_ptn_p = self.dnuc + "_" + self.sntname + "_p.ptn"
         self.parent_daughter_ptn_n = self.dnuc + "_" + self.sntname + "_n.ptn"
@@ -427,12 +429,9 @@ def copy_exe_files(sntf):
             os.system("cp " + kshell_dir + "/snt/" + sntf + " ./")
 
 if __name__ == "__main__":
-
-
-    # snt & model space
+    
     sntf = "sdpf-m.snt"
-    sntf = "SDPFSDG.snt"    
-
+    #sntf = "SDPFSDG.snt"    
     copy_exe_files(sntf)
 
 
@@ -441,8 +440,7 @@ if __name__ == "__main__":
     ZNrange = [ (Z, N) for Z in [17] for N in range(24, 36)]
     ZNrange = [ (9,22) ]
 
-
-    ZNrange = [ (12, 24) ]
+    #ZNrange = [ (11, 26) ]
 
 
     T = True
@@ -464,12 +462,14 @@ if __name__ == "__main__":
 
     using_O = False
 
+    hw_ofst = 0
     
     for (Z, N) in ZNrange:
-        beta_decay = BetaDecay(Z, N, sntf)
+        beta_decay = BetaDecay(Z, N, sntf, hw_ofst=hw_ofst)
+
+        generate_0hw1hw_ptn_files(ZNrange, sntf, hw_ofst=hw_ofst)
         beta_decay.create_dirs()
-        
-        generate_0hw1hw_ptn_files(ZNrange, sntf)
+
         generate_scriptfiles(sntf, ZNrange, run_mwav_job=True)
             
         for mode in ["FF", "GT", "GT_LS"]:

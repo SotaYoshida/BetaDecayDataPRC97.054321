@@ -569,6 +569,7 @@ if __name__ == "__main__":
 
     if not nparity in (1, -1): raise "parity error"
 
+
     # this is only valid for current model space 20<=N<=40
     if (nf[1]) % 2 == 0:
         if nparity == 1:
@@ -580,5 +581,8 @@ if __name__ == "__main__":
             hwtrunc = 0 #0hw=natural parity = negative
         else:
             hwtrunc = 1 #1hw=unnatural parity = positive
+
+    if len(sys.argv) == 7:
+        hwtrunc += int(sys.argv[6])
 
     main(fn_snt, fn_out, nf, nparity, hwtrunc)
