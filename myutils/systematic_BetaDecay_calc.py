@@ -504,3 +504,4 @@ if __name__ == "__main__":
     os.system("rm *.ptn")  
     os.system("rm *.wav*")
     os.system("rm *.sh")
+    os.system("rm OBTD_*dat")
