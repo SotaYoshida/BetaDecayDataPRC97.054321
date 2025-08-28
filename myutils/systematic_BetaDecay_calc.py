@@ -432,19 +432,16 @@ if __name__ == "__main__":
 
 
     sntf = "sdpf-m.snt"
-    #sntf = "SDPFSDG.snt"    
+    sntf = "SDPFSDG.snt"    
     copy_exe_files(sntf)
-
 
     Zcore = Ncore = 8
-
-    ZNrange = [ (Z, N) for Z in [17] for N in range(24, 36)]
     ZNrange = [ (9,22) ]
 
-    Zcore = Ncore = 4
-    sntf = "ysox.snt"
-    copy_exe_files(sntf)
-    ZNrange = [ (5, 14) ]
+    # Zcore = Ncore = 4
+    # sntf = "ysox.snt"
+    # copy_exe_files(sntf)
+    # ZNrange = [ (5, 14) ]
 
     T = True
     F = False
@@ -453,8 +450,8 @@ if __name__ == "__main__":
     using_MPI = F 
     using_O = False
    
-    
-    hw_ofst = 3
+   
+    hw_ofst = 2
     
     for (Z, N) in ZNrange:
         beta_decay = BetaDecay(Z, N, sntf, hw_ofst=hw_ofst)
@@ -489,11 +486,15 @@ if __name__ == "__main__":
             os.system(f"mv log_{beta_decay.pnuc}_{beta_decay.sntname}_*.txt "+beta_decay.dir_parent_states+"/")
             time.sleep(1)
             os.system(f"mv log_{beta_decay.dnuc}_{beta_decay.sntname}_*.txt "+beta_decay.dir_daughter_states+"/")
+            
+        os.system("rm OBTD_*dat")
+        os.system("rm *.input")
+        os.system("rm *.ptn")  
+        os.system("rm *.wav*")
+        os.system("rm *.sh")
 
-
+        
     os.system("rm *.exe")
-    os.system("rm *.input")
-    os.system("rm *.ptn")  
-    os.system("rm *.wav*")
-    os.system("rm *.sh")
-    os.system("rm OBTD_*dat")
+
+
+
