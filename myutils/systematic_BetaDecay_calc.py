@@ -429,7 +429,8 @@ def copy_exe_files(sntf):
             os.system("cp " + kshell_dir + "/snt/" + sntf + " ./")
 
 if __name__ == "__main__":
-    
+
+
     sntf = "sdpf-m.snt"
     #sntf = "SDPFSDG.snt"    
     copy_exe_files(sntf)
@@ -440,29 +441,20 @@ if __name__ == "__main__":
     ZNrange = [ (Z, N) for Z in [17] for N in range(24, 36)]
     ZNrange = [ (9,22) ]
 
-    #ZNrange = [ (11, 26) ]
-
+    Zcore = Ncore = 4
+    sntf = "ysox.snt"
+    copy_exe_files(sntf)
+    ZNrange = [ (5, 14) ]
 
     T = True
     F = False
     mkdir = F
     rewrite_jwav = F
     using_MPI = F 
-
-    # if len(sys.argv) < 2:
-
-    #     print("usage: systematic_BetaDecay_calc.py O/A")
-    #     exit()
-
-    # if sys.argv[1].strip() == "O":
-    #     using_O = True
-    # else:
-    #     using_O = False
-    # print("using... ", sys.argv[1], "using_O", using_O)
-
     using_O = False
-
-    hw_ofst = 0
+   
+    
+    hw_ofst = 3
     
     for (Z, N) in ZNrange:
         beta_decay = BetaDecay(Z, N, sntf, hw_ofst=hw_ofst)
